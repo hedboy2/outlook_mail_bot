@@ -26,8 +26,8 @@
 - run main.py , enjoy using it
 
 # ❓ Need help 
-- Reach me on discord : @justmanooo
+- Reach me on telegram : @pooh1120
 - DO NOT DM FOR DUMB REASONS
 -----------
 - Status : Working
-- Updated to last outlook version : 2024/06/21
+- Updated to last outlook version : 2024/07/23
