@@ -1,0 +1,4 @@
+password: 'UdPasswordFr1234567!'                       # password for accounts
+threads: 1                                             # THREADS Amount
+solver: "EZ-CAPTCHA"                                   # CAPSOLVER , CAPBYPASS
+capKey: "2bd35d766ea74e29a7d0d720d6b225d4651879"         # CAPTCHA KEY  
